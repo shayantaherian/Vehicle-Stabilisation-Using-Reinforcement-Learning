@@ -16,4 +16,4 @@ Open `RLTunningTV.slx` Simulink file
 To train the algorithm, run the `train(agent,env,trainingOptions)` m-file
 
 ## Testing
-To test the trained agent, comment the `Train the agent` section and uncomment `Inference` section
+To test the trained agent, comment the `Train the agent` section and uncomment `Inference` section and run it again
