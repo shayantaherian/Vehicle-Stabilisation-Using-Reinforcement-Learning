@@ -6,7 +6,7 @@ Clone the repository `
 git clone https://github.com/shayantaherian/Vehicle-Stabilisation-Using-Reinforcement-Learning/.git
 `
 
-Install ` MATLAB 2019 or later release`
+Install ` MATLAB 2019` or later release
 
 Install Add-On `Reinforcement Learning Toolbox` and `Deep Learning Toolbox` 
 
